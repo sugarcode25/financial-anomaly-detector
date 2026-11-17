@@ -1,3 +1,9 @@
+> **⚠ Versión archivada (v9.3, abril de 2026). No usar sus cifras ni conclusiones.**
+> Una auditoría posterior encontró errores que cambian las conclusiones de este README, entre ellos una **fuga de información**: el modelo usaba datos del futuro para calificar el pasado. El detalle está en [`ISSUES.md`](ISSUES.md). La versión corregida, con una prueba fuera de muestra prerregistrada, está en [financial-anomaly-detector-v2](https://github.com/sugarcode25/financial-anomaly-detector-v2). El texto que sigue se conserva sin cambios como registro histórico.
+
+---
+
+
 # Sistema de Detección de Anomalías Basado en SOM para Mercados de Renta Variable
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python&logoColor=white)
